@@ -1,0 +1,11 @@
+1- Laravel Artisan
+2- Laravel Blade
+3- Laravel Blade Spacer
+4- Laravel Extra Interllisense
+5- Laravel Goto View
+6- Laravel Goto Controller
+7- Laravel Goto Components
+8- PHP Debug
+9- PHP Intelephense
+10- PHP Namespace Resovler
+11- PHP snipprt from PHP strom
